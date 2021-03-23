@@ -12,6 +12,6 @@ A user is able to set the time to any values they want by pressing \*. With this
 ### Toggle between 12-hour and Military clocks
 A user is able to switch clock modes by pressing D at any moment. There are two modes: 12-hour and 24-hour (military time)
 ## Main Modules Used
-ATMega32 Microcontroller
-16 input Keypad
-16 Character LCD
+* ATMega32 Microcontroller
+* 16 input Keypad
+* 16 Character LCD
